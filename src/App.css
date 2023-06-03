@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.user-name{
+  font-family: 'Poppins', sans-serif;
+}
+
+.user-pic{
+  width:200px;
+  height:200px;
+  border-radius: 50%;
+  object-fit:cover;
+}
